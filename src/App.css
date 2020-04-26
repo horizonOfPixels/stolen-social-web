@@ -1,0 +1,30 @@
+body{
+  color: #333333;
+}
+
+h1{
+  font-size: 46px;
+  line-height: 52px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.section{
+  width: 100%;
+}
+
+.uni-wrapper{
+  max-width: 1440px;
+  width: auto;  
+  padding-left: 80px;
+  padding-right: 80px;
+  margin: 0 auto;
+}
+
+.uni-container{
+  width: 100%;
+}
+
+.content-container{
+  display: grid;
+}
